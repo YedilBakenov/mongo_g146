@@ -24,4 +24,6 @@ public class User {
     private double gpa;
 
     private String city;
+
+    private String code;
 }
